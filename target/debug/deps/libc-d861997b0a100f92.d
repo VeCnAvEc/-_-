@@ -1,0 +1,11 @@
+C:\Users\vecnavec\Desktop\example\unknow\app\keylogger\app\target\debug\deps\libc-d861997b0a100f92.rmeta: C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\lib.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\macros.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\fixed_width_ints.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\mod.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\msvc\mod.rs
+
+C:\Users\vecnavec\Desktop\example\unknow\app\keylogger\app\target\debug\deps\liblibc-d861997b0a100f92.rlib: C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\lib.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\macros.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\fixed_width_ints.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\mod.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\msvc\mod.rs
+
+C:\Users\vecnavec\Desktop\example\unknow\app\keylogger\app\target\debug\deps\libc-d861997b0a100f92.d: C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\lib.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\macros.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\fixed_width_ints.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\mod.rs C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\msvc\mod.rs
+
+C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\lib.rs:
+C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\macros.rs:
+C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\fixed_width_ints.rs:
+C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\mod.rs:
+C:\Users\vecnavec\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.134\src\windows\msvc\mod.rs:
